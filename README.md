@@ -6,9 +6,7 @@
 > - UI/UX: Jingyi Xu, Jing Wang, Chrissi Friedrich
 
 
-
-<video src="./Pigeon%20101%20-%20demo.mp4"></video>
-
+https://github.com/elaineJJY/Pigeon-101/assets/62991370/68902894-b433-45a9-8a2e-4fd881450134
 
 
 # Concept
