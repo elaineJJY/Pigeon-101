@@ -6,7 +6,7 @@
 > - UI/UX: Jingyi Xu, Jing Wang, Chrissi Friedrich
 
 
-https://github.com/elaineJJY/Pigeon-101/assets/62991370/68902894-b433-45a9-8a2e-4fd881450134
+
 
 
 # Concept
@@ -27,6 +27,16 @@ During nesting, pigeons rely on steep and unaccessible outcrops that are abundan
 
 
 
+# Demo
+
+https://github.com/elaineJJY/Pigeon-101/assets/62991370/68902894-b433-45a9-8a2e-4fd881450134
+
+
+
 # Sponsors
 
 ![Sponsors](assets/Sponsors.png)
+
+
+
+![Sponsors](assets/Deutsches_Museum_Logo.png)
