@@ -1,6 +1,6 @@
 # PIGEON 101
 
-> Team: <img align="right" src="./logo1.png" height="200" />
+> Team: <img align="right" src="assets/logo1.png" height="200" />
 >
 > - Developer: Jingyi Jia
 > - UI/UX: Jingyi Xu, Jing Wang, Chrissi Friedrich
@@ -13,7 +13,7 @@ https://github.com/elaineJJY/Pigeon-101/assets/62991370/68902894-b433-45a9-8a2e-
 
 Munich is an urban landscape that is known for its high population density. But humans are not the only ones who inhabit this rocky cityscape. Amongst other wild animals, Pigeons live side by side with humans and use the city as their habitat. The project aims to project the viewer into the perception of a pigeon to experience the cityscape with a new focus and see the urban context with different eyes. With the use of augmented reality, the user is able to see abstract aspects of a Pigeons life and is drawn into the twisted reality of urban wildlife.
 
-![1688684627196 (1)](1688684627196%20(1).jpg)
+![1688684627196 (1)](assets/1688684627196%20(1).jpg)
 
 ## THE PIGEON-CYCLE
 
@@ -29,4 +29,4 @@ During nesting, pigeons rely on steep and unaccessible outcrops that are abundan
 
 # Sponsors
 
-![Sponsors](./Sponsors.png)
+![Sponsors](assets/Sponsors.png)
